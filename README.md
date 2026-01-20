@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+
 # 🏠 Multi-Task CNN for Real-Estate Image Understanding
 
 This repository contains an **end-to-end multi-task computer vision project** for real-estate interior images.  
