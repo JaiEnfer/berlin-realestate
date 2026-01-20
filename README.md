@@ -198,3 +198,5 @@ Photo quality labels are proxy labels; future work includes human-rated calibrat
 The project structure mirrors common industry ML pipelines.
 
 ---
+
+___Thank You___
