@@ -1,0 +1,81 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+ENV/
+env/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs and checkpoints
+# =========================
+outputs/logs/
+runs/
+*.log
+
+# =========================
+# Model weights (DO NOT COMMIT)
+# =========================
+*.pt
+*.pth
+*.onnx
+
+# =========================
+# Data (raw & processed)
+# =========================
+data/raw/
+data/processed/
+
+# =========================
+# Experiment artifacts
+# =========================
+outputs/models/
+outputs/failures_room/*.pt
+
+# =========================
+# Kaggle
+# =========================
+kaggle.json
+
+# =========================
+# Streamlit cache
+# =========================
+.streamlit/
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.bak
+*.zip
