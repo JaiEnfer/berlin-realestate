@@ -1,6 +1,8 @@
-![Python](https://img.shields.io/badge/python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CNN-orange)
+![Multi-Task Learning](https://img.shields.io/badge/Multi--Task-Learning-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-Demo-brightgreen)
 
 
 # 🏠 Multi-Task CNN for Real-Estate Image Understanding
